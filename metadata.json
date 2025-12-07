@@ -1,0 +1,5 @@
+{
+  "name": "NetSentinel - Ağ Tarayıcı Simülasyonu",
+  "description": "Tarayıcı güvenliği kısıtlamaları nedeniyle bu uygulama SİMÜLASYON modunda çalışır. Yerel ağ taraması (ARP/Ping) tarayıcı içinden doğrudan yapılamaz. Bu demo, gerçekçi bir ağ tarama arayüzünü ve Gemini AI ile güvenlik analizini görselleştirir.",
+  "requestFramePermissions": []
+}
